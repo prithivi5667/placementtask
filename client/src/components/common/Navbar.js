@@ -10,7 +10,7 @@ const Navbar = () => {
 
 					<li className="nav-item">
 						<NavLink className="nav-link" activeClassName="active" to="/cruds">
-							CRUDs
+							Infos
 						</NavLink>
 					</li>
 					<li className="nav-item">
